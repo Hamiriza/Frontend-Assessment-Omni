@@ -47,7 +47,7 @@
       ```json
       {
         "id": "directory-1",
-        "fsEntries": [
+        "entries": [
           {
             "name": "directory-1a",
             "type": "directory"
@@ -59,7 +59,7 @@
       ```json
       {
         "id": "directory-1/directory-1a",
-        "fsEntries": [
+        "entries": [
           {
             "name": "directory-1aA",
             "type": "directory"

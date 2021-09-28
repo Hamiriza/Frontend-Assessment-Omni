@@ -43,7 +43,7 @@
     },
     {
       "id": "directory-1",
-      "fsEntries": [
+      "entries": [
         {
           "name": "directory-1a",
           "type": "directory"
@@ -52,7 +52,7 @@
     },
     {
       "id": "directory-1/directory-1a",
-      "fsEntries": [
+      "entries": [
         {
           "name": "directory-1aA",
           "type": "directory"
@@ -69,7 +69,7 @@
     },
     {
       "id": "directory-1/directory-1a/directory-1aA",
-      "fsEntries": [
+      "entries": [
         {
           "name": "directory-1aA1",
           "type": "directory"
@@ -94,11 +94,11 @@
     },
     {
       "id": "directory-1aA1",
-      "fsEntries": []
+      "entries": []
     },
     {
       "id": "directory-2",
-      "fsEntries": [
+      "entries": [
         {
           "name": "directory-2a",
           "type": "directory"
@@ -134,7 +134,7 @@
     },
     {
       "id": "directory-3",
-      "fsEntries": []
+      "entries": []
     }
   ]
 }
