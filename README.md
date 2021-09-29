@@ -1,4 +1,4 @@
-# React.js Assessment Server
+# Fileserver
 
 ## Pre-requisites
 
