@@ -2,9 +2,9 @@
 
 ## Pre-requisites
 
-1. Docker
-2. Make
-3. Free port on port 3000
+1. [Docker](https://docs.docker.com/get-docker/)
+2. [Make](https://www.gnu.org/software/make/)
+3. Free port on port 8080
 
 ## Start
 
