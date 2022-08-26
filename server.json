@@ -1,9 +1,7 @@
 {
-  "paths": [
-    {
+  "paths": [{
       "id": "root",
-      "entries": [
-        {
+      "entries": [{
           "name": "directory-1",
           "type": "directory"
         },
@@ -38,22 +36,19 @@
       "contents": "() => {console.log('component-1.js'}"
     },
     {
-      "name": "component-2.js",
+      "id": "component-2.js",
       "contents": "() => {console.log('component-2.js'}"
     },
     {
       "id": "directory-1",
-      "entries": [
-        {
-          "name": "directory-1a",
-          "type": "directory"
-        }
-      ]
+      "entries": [{
+        "name": "directory-1a",
+        "type": "directory"
+      }]
     },
     {
       "id": "directory-1/directory-1a",
-      "entries": [
-        {
+      "entries": [{
           "name": "directory-1aA",
           "type": "directory"
         },
@@ -69,8 +64,7 @@
     },
     {
       "id": "directory-1/directory-1a/directory-1aA",
-      "entries": [
-        {
+      "entries": [{
           "name": "directory-1aA1",
           "type": "directory"
         },
@@ -85,21 +79,20 @@
       ]
     },
     {
-      "name": "directory-1/directory-1a/directory-1aA/index.js",
+      "id": "directory-1/directory-1a/directory-1aA/index.js",
       "contents": "() => {console.log('directory-1/directory-1a/directory-1aA/index.js'}"
     },
     {
-      "name": "directory-1/directory-1a/directory-1aA/component-1.js",
+      "id": "directory-1/directory-1a/directory-1aA/component-1.js",
       "contents": "() => {console.log('directory-1/directory-1a/directory-1aA/component-1.js'}"
     },
     {
-      "id": "directory-1aA1",
+      "id": "directory-1/directory-1a/directory-1aA/directory-1aA1",
       "entries": []
     },
     {
       "id": "directory-2",
-      "entries": [
-        {
+      "entries": [{
           "name": "directory-2a",
           "type": "directory"
         },
@@ -121,16 +114,20 @@
       ]
     },
     {
-      "name": "directory-2/index.js",
+      "id": "directory-2/index.js",
       "contents": "() => {console.log('directory-2/index.js'}"
     },
     {
-      "name": "directory-2/component-1.js",
+      "id": "directory-2/component-1.js",
       "contents": "() => {console.log('directory-2/component-01.js'}"
     },
     {
-      "name": "directory-2/component-2.js",
+      "id": "directory-2/component-2.js",
       "contents": "() => {console.log('directory-2/component-02.js'}"
+    },
+    {
+      "id": "directory-2/directory-2a",
+      "entries": []
     },
     {
       "id": "directory-3",

@@ -1,0 +1,26 @@
+.toggler-arrow {
+  display: inline;
+  padding: 0;
+}
+
+.toggler-arrow.active {
+  transform: rotate(45deg);
+}
+
+.node-name {
+  display: inline;
+  padding: 0;
+}
+
+.icon {
+  display: inline;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  margin: 5px 0px;
+}
