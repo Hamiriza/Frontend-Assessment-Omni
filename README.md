@@ -78,3 +78,5 @@
         "contents": "() => {console.log('index.js'}"
       }
       ```
+4. npm install
+5. npm start
